@@ -1,0 +1,8 @@
+pages/basePage.java
+ pages.basePage
+pages/homePage.java
+ pages.homePage
+pages/registerTest.java
+ pages.registerTest
+test/loginPageTest.java
+ test.loginPageTest
